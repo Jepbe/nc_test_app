@@ -1,0 +1,20 @@
+
+
+
+.mainDiv {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.mainDiv div {
+    padding: 24px;
+    border-radius: 8px;
+    margin: 16px;
+
+    box-shadow: 0 0 0 1px rgb(0 0 0 / 7%), 0 2px 4px rgb(0 0 0 / 5%), 0 12px 24px rgb(0 0 0 / 5%);
+}
