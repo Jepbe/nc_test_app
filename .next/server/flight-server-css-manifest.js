@@ -1,1 +1,1 @@
-self.__RSC_CSS_MANIFEST={"__entry_css__":{"C:\\Users\\Jepbe\\Documents\\Github\\ncTestApp\\app\\testPage2\\page":["C:\\Users\\Jepbe\\Documents\\Github\\ncTestApp\\app\\mainContent.module.css","C:\\Users\\Jepbe\\Documents\\Github\\ncTestApp\\app\\globals.css"]},"C:\\Users\\Jepbe\\Documents\\Github\\ncTestApp\\app\\testPage2\\page.tsx":["C:\\Users\\Jepbe\\Documents\\Github\\ncTestApp\\app\\mainContent.module.css"],"C:\\Users\\Jepbe\\Documents\\Github\\ncTestApp\\app\\layout.tsx":["C:\\Users\\Jepbe\\Documents\\Github\\ncTestApp\\app\\globals.css"]}
+self.__RSC_CSS_MANIFEST={}
